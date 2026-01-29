@@ -50,7 +50,7 @@ Yeah—this is strong, and the Boeing case really *does* behave like a canonical
 
 ---
 
-## #boeing — a clean read
+## `#boeing` — a clean read
 
 **Your central claim holds:**
 The simulator *did its job*. The territory obeyed the map. The failure wasn’t epistemic—it was **institutional refusal to pay latency**.
@@ -59,7 +59,7 @@ That’s the key: Boeing didn’t misunderstand the system; it **chose not to li
 
 ---
 
-## 1. Map → Territory → Denial
+## 1. [Map](https://ukb-dt.github.io/attempt-at-self-criticism/) → [Territory](https://ukb-dt.github.io/canon-00/) → [Denial](https://ukb-dt.github.io/mcgilchrist-00/)
 
 > *“The map (simulator) perfectly predicted the territory—but Boeing shipped the planes anyway.”*
 
